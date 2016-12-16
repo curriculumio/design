@@ -1,0 +1,18 @@
+{
+	"title": "What is Design Thinking?",
+	"text": "Overview of the principles behind designing interfaces and devices.",
+	"type": "discussion",
+	"objective": "discuss the fundamental principles of design thinking",
+	"length": 60,
+
+	"section": {
+		"overview": {
+			"header": false
+		},
+		"visibility": {
+			"template": "split-image",
+			"image": "image/visibility.jpg",
+			"title": "Visibility"
+		}
+	}
+}

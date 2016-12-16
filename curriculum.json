@@ -1,0 +1,21 @@
+{
+	"title": "Design Thinking",
+	"text": "Develop methodologies for understanding problems and creating solutions.",
+	"objective": "learn to understand problems and create solutions",
+	"topic": "thinking",
+	"author": ["keshav", "vimal"],
+	"done": true,
+	"color": "green",
+
+	"path": {
+		"thinking": {
+			"title": "Design Thinking Steps",
+			"text": "This is an overview of our five steps for design thinking.",
+			"lesson": ["thinking", "research", "patterns", "principles", "prototype", "iteration"]
+		},
+		"activity": {
+			"title": "Design Thinking Activities",
+			"text": "A collection of short activities for reinforcing design thinking principles."
+		}
+	}
+}

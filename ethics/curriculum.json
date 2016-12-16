@@ -1,0 +1,20 @@
+{
+	"title": "Technology Ethics",
+	"text": "A series of discussions to have with students about ethics in the technology age.",
+	"topic": "thinking",
+	"author": ["keshav", "vimal"],
+	"color": "green",
+
+	"lesson": ["theory"],
+
+	"path": {
+		"discussions": {
+			"title": "Discussions",
+			"text": "Sets of Socratic seminar questions designed to promote discussion on ethics and the role of technology in ethical decisions.",
+			"lesson": ["theory"]
+		},
+		"activities": {
+			"title": "Activities"
+		}
+	}
+}

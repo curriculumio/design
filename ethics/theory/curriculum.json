@@ -1,0 +1,21 @@
+{
+	"title": "Ethics Theories",
+	"text": "An overview of the three major ethical theories.",
+	"type": "discussion",
+	"objective": "discuss established ethical theories and challenge your opinions.",
+
+	"section": {
+		"utilitarianism": {
+			"title": "Utilitarianism",
+			"text": "Attempt to maximize happiness and reduce suffering for the greatest amount of people. Utilitarianism focuses on results and consequences rather than rules."
+		},
+		"duty": {
+			"title": "Duty Ethics",
+			"text": "Prioritize the obligations that one has to society and follows society's universal rules. It focuses on the rightness of actions instead of the consequences, focusing on what an individual should do."
+		},
+		"virtue": {
+			"title": "Virtue Ethics",
+			"text": "Highlights the role and virtues that an individual's character contains to be able to determine or evaluate ethical behaviour in society."
+		}
+	}
+}
