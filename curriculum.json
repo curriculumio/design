@@ -9,7 +9,7 @@
 
 	"path": {
 		"thinking": {
-			"title": "Design Thinking Steps",
+			"title": "Design Thinking  Steps",
 			"text": "This is an overview of our five steps for design thinking.",
 			"lesson": ["thinking", "research", "patterns", "principles", "prototype", "iteration"]
 		},
