@@ -18,10 +18,11 @@
 			"template": "split-image",
 			"image": "image/something.png",
 			"title": "Something"
-		}
+		},
 		"consistency": {
 			"template":"split-image",
 			"image": "image/something.png",
 			"title": "Something"
+		}
 	}
 }
