@@ -3,4 +3,6 @@ Imagine driving at night down a highway, you look at your dashboard and it is li
 
 Visibility allows one to see the state of the device and possible actions.  Car controls are easily positioned to be found and used. If they were out of sight, it would make them more difficult to find and know how use.
 
-Example
+“The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable him or her to ‘make the invisible visible.’ – Hillman Curtis
+
+
