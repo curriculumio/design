@@ -11,16 +11,12 @@
 		},
 		"visibility": {
 			"template": "split-image",
-			"image": "image/visibility1.jpg",
+			"image": "image/visibility-principle.jpg",
+			"image": "image/visibility-web1.jpg
 			"title": "Visibility"
 		},
 		"mapping": {
 			"template": "split-image",
-			"image": "image/something.png",
-			"title": "Something"
-		},
-		"consistency": {
-			"template":"split-image",
 			"image": "image/something.png",
 			"title": "Something"
 		}
