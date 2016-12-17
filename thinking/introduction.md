@@ -6,5 +6,4 @@ object is an attribute that defines how easy it is to use an object.
 
 Let's define these principles and see how they work together to make design effective, meaningful, and enjoyable. 
 
-"I think there is a tendency in science to measure what is measurable and to decide that what you cannot measure must be uninteresting."
--Don Norman
+"Design is really an act of communication, which means having a deep undersatnding of the person with whom the designer is communicating." - Donald A. Norman, The Design of Everyday Things
