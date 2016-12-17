@@ -9,3 +9,5 @@ Physical interfaces that show consistency are stop lights. Their meanings and ac
 For any new driver, they improve learnability and understanding of when to stop, slow down, and accelerate. 
 The consistent use of symbols can represent similar concepts, such as the hexagonal stop signs are red, and 
 certain devices use red and green to symbolize stop and play.
+
+"Consistency is one of the most powerful usability prrinciples: when things always bheave the same, users don't have to worry about what will happen based on earlier experience" - Jakob Nielsen, Tweet
