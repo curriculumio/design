@@ -9,3 +9,4 @@ The heading of the page remains static and tells you where you are in the conten
 that not only tells the user where they are in the content, but broadly communicates Gene Lab.
 
 
+"Study carefully the law of cause and effect." - Vernon Howard
