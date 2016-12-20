@@ -17,4 +17,4 @@ To discover the full range of solutions, you can:
   - To truly create something innovative and do-able, we must challenge constraints. In this activity, 
   your team will take a design, process, system, or idea related to your problem and change one 
   foundational aspect to make it “impossible” in function or feasibility. This activity works well for thinking 
-  through assumptions and obstacles to reimagine solution
+  through assumptions and obstacles to reimagine solutions
