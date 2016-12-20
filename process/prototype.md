@@ -20,3 +20,5 @@ High Fidelity Prototypes - allow user interactions usually computer based:
 - Start putting the look and feel of your product after you’ve established basic function
 
 highfidelity_mockup.jpg
+
+“Above all, think of life as a prototype. We can conduct experiments, make discoveries, and change our perspectives. We can look for opportunities to turn processes into projects that have tangible outcomes. We can learn how to take joy in the things we create whether they take the form of a fleeting experience or an heirloom that will last for generations. We can learn that reward comes in creation and re-creation, not just in the consumption of the world around us. Active participation in the process of creation is our right and our privilege. We can learn to measure the success of our ideas not by our bank accounts by their impact on the world.” –Tim Brown
