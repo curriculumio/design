@@ -1,6 +1,6 @@
 research.jpg
 
-You see a problem that you think a device, an app, an interface would be able to solve. Where do you begin? 
+You see a problem that you think a device, an app, or an interface would be able to solve. Where do you begin? 
 To understand a problem, first research it. While researching, address the following questions. 
 
 - Who are you solving this problem for? You or for others? 
