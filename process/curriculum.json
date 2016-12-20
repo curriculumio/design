@@ -1,24 +1,24 @@
 {
-	"title": "What is Design Thinking?",
-	"text": "Overview of the principles behind designing interfaces and devices.",
+	"title": "The Design Process",
+	"text": "Putting the principles of design into practice.",
 	"type": "discussion",
-	"objective": "discuss the fundamental principles of design thinking",
+	"objective": "discuss the fundamental steps in design thinking",
 	"length": 60,
 
 	"section": {
 		"overview": {
-			"header": false
+			"header": "false"
 		},
-		"visibility": {
+		"research": {
 			"template": "split-image",
-			"image": "image/visibility-principle.jpg",
-			"image": "image/visibility-web1.jpg",
-			"title": "Visibility"
+			"image": "",
+			"image": "",
+			"title": ""
 		},
 		"mapping": {
-			"template": "split-image",
-			"image": "image/something.png",
-			"title": "Something"
+			"template": "",
+			"image": "",
+			"title": ""
 		}
 	}
 }
