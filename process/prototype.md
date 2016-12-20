@@ -1,5 +1,5 @@
-To prototype mocks of your solutions that bring you closer to discovering a final solution. Prototyping tests how
-the user interacts with your solutions. It should unveil what aspects of your solution that work and do not work.
+Prototyping mocks of your solutions bring you closer to discovering a final solution. Prototyping tests how
+the user interacts with your solutions. It should unveil what aspects of your solution that do and do not work.
 
 Prototyping allows one to fail quickly while committing to few resources, to start conversations centered around user 
 interactions, and to improve ideas and problem solving.
