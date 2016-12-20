@@ -15,3 +15,8 @@ your prototypes, you won’t have to start from scratch! You’ll just have to t
 Repeat the process until you derive the final solution. Wax on, Wax Off. 
 
 final.jpg
+
+
+
+
+“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” –Antoine de Saint-Exupery
