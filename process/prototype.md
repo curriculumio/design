@@ -11,7 +11,12 @@ Low Fidelity Prototypes - do not allow user interactions usually paper based:
 - Wireframes
 - Mockups
 - Printouts
+
+lowfidelity_mockup.png
+
 High Fidelity Prototypes - allow user interactions usually computer based:
 - For devices, you can use Arduino
 - Start building the foundational aspects of your solution like function
 - Start putting the look and feel of your product after you’ve established basic function
+
+highfidelity_mockup.jpg
