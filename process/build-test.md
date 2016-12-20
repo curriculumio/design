@@ -13,3 +13,5 @@ From observing the user interaction, at which stage in design process did you ma
 After you go through these questions, determine which stage you should go back to and work forward from? If you keep all
 your prototypes, you won’t have to start from scratch! You’ll just have to tinker with them to fit a more appropriate prototype. 
 Repeat the process until you derive the final solution. Wax on, Wax Off. 
+
+final.jpg
