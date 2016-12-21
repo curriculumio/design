@@ -1,0 +1,19 @@
+In this design lab, apply knowledge of LEDs and Arduinos to build and prototype a device that solves a real world problem. 
+
+Materials:
+- Arduino Board
+- LEDs
+- USB Cord 
+- Breadboard
+- Wires 
+- Resistors 
+
+Instructions:
+- Brainstorm problems
+- Pick problem 
+- Brainstorm Solutions
+- Build Prototype 
+- Test Prototype 
+
+Try to build your Arduino to scale. For instance, if you want to make a path that lights up to your house, build a mock house 
+that has an LED path go up to it! You can find other uses like a lamp or a motion a sensor light!
