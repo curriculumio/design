@@ -4,6 +4,7 @@ You see a problem that you think a device, an app, or an interface would be able
 To understand a problem, first research it. While researching, address the following questions. 
 
 - Who are you solving this problem for? You or for others? 
+- Why is your problem a problem? What contributes to the problem?
 - How do potential users interact with their environment? 
 - How does this interaction give you insight about what they think and feel?
 - What do they really need? 
