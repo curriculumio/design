@@ -21,4 +21,21 @@ High Fidelity Prototypes - allow user interactions usually computer based:
 
 highfidelity_mockup.jpg
 
+
+
+In this exercise, creating a low-fidelity prototype in less than 5 minutes, allows to demonstrate the basic functionality of your deive. 
+
+Prototype Your Alarm Clock (or your solution)
+Think about the alarm clock you use to wake up every day. It may be a digital clock radio, analog clock, cellphone, or a desktop application. Make a low-fidelity prototype of your alarm clock. Include enough of the interface so that your low-fi prototype can display and change the current time, display and change the alarm time, and turn the alarm on and off.
+
+Each of you should draw your own alarm clock at the same time. Don't discuss it with your partner yet.
+
+Run Your Prototype
+Simulate your prototype, acting as the Computer, while your partner acts as user. Use these tasks:
+
+Is the alarm set to wake me up at 9 am?
+Suppose not. Set the alarm to wake me up at 9 am.
+Set the current time one hour backward for a daylight savings time switch.
+Then switch roles, so that the other person acts as the Computer simulating their own prototype on you.
+
 “Above all, think of life as a prototype. We can conduct experiments, make discoveries, and change our perspectives. We can look for opportunities to turn processes into projects that have tangible outcomes. We can learn how to take joy in the things we create whether they take the form of a fleeting experience or an heirloom that will last for generations. We can learn that reward comes in creation and re-creation, not just in the consumption of the world around us. Active participation in the process of creation is our right and our privilege. We can learn to measure the success of our ideas not by our bank accounts by their impact on the world.” –Tim Brown
