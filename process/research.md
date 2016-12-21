@@ -18,7 +18,12 @@ To gain a better understanding of users, you can:
 - Search the internet 
   - Read news articles, academic articles 
   - Use the advanced search
-  
+ 
+Design Research Activity - Build a survey
+Come up with 10 questions that will inform you about users and the context of the problem. You can builid surveys in Google Docs.
+1.) Build your survey to obtain important insights, so every question in the survey is necessary. It’s best to plan your survey by first identifying the data you need to collect and then writing your questions.
+2.) Make your surveys short. Individuals are less likely to complete long surveys, or surveys that bounce around haphazardly from topic to topic. Make sure the survey follows a logical order and can be filled in reasonable time.
+3.) Ask direct questions. Vaguely or poorly worded questions confuse respondents and make your data less useful. Strive for clear and precise language that will make your questions easy to answer.
 
 “To create meaningful innovations, you need to know your users and care about their lives.” 
 
